@@ -12,8 +12,8 @@ In **data** directory, I share all real-world and artificial benchmark networks 
 ## Executable
 In **executables** directory, I share all executables that I have used to generate LFR benchmarks and some implementations of other community detection algorithms I have compared SimCMR in my research.
 
-## How to cite?
-If you find any material useful, please cite my research as below:
+## How to cite
+If you find any material here useful, please cite my research as below:
 
 V. Tunali, "Large-Scale Network Community Detection using Similarity-Guided Merge and Refinement", IEEE Access, vol. 9, 2021, doi: 10.1109/ACCESS.2021.3083971
 
