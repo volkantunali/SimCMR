@@ -1,5 +1,5 @@
 # SimCMR
-## Large-Scale Network Community Detection using Similarity-Guided Merge and Refinement
+## Large-Scale Network Community Detection Using Similarity-Guided Merge and Refinement
 
 SimCMR is a network community detection algorithm particularly developed for detecting communities in large-scale networks fast and effectively. It was designed for detecting non-overlapping communities in unipartite, undirected, and unweighted networks.
 
@@ -15,6 +15,6 @@ In **executables** directory, I share all executables that I have used to genera
 ## How to cite
 If you find any material here useful, please cite my research as below:
 
-V. Tunali, "Large-Scale Network Community Detection using Similarity-Guided Merge and Refinement", *IEEE Access*, vol. 9, 2021, doi: 10.1109/ACCESS.2021.3083971
+V. Tunali, "Large-Scale Network Community Detection Using Similarity-Guided Merge and Refinement", *IEEE Access*, vol. 9, 2021, doi: 10.1109/ACCESS.2021.3083971
 
 Link to the paper on [IEEE Xplore](https://doi.org/10.1109/ACCESS.2021.3083971)
