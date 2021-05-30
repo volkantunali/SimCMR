@@ -16,3 +16,5 @@ In **executables** directory, I share all executables that I have used to genera
 If you find any material useful, please cite my research as below:
 
 V. Tunali, "Large-Scale Network Community Detection using Similarity-Guided Merge and Refinement", IEEE Access, vol. 9, 2021, doi: 10.1109/ACCESS.2021.3083971
+
+Link to the paper on [IEEE Xplore](https://doi.org/10.1109/ACCESS.2021.3083971)
