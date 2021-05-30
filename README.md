@@ -10,7 +10,7 @@ SimCMR was implemented in pure Python on top of NetworkX which is a very popular
 In **data** directory, I share all real-world and artificial benchmark networks in a unified format (edge list with node indices starting from 1). In addition to network files, you can find their corresponding ground-truth community assignments.
 
 ## Executables
-In **executables** directory, I share all executables that I have used to generate LFR benchmarks and some implementations of other community detection algorithms I have compared SimCMR in my research.
+In **executables** directory, I share all executables that I have used to generate LFR benchmarks and some implementations of other community detection algorithms I have compared with SimCMR in my research.
 
 ## How to cite
 If you find any material here useful, please cite my research as below:
